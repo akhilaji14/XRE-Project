@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4fa1379538609fe4c9b5ef93b6ce8cbb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Materials/Robotic Manipulators/render.mat
+  uploadId: 296766

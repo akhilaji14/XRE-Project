@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d15a30acac63b5d43801c8384b740ea0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217031
+  packageName: Megapoly.Art - AGV Omniwheel
+  packageVersion: 1.0
+  assetPath: Assets/Megapoly.Art/AGV Omniwheel/Materials/wheel.mat
+  uploadId: 541636

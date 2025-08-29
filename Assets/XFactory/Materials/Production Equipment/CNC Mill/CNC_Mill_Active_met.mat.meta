@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acdeaad8c03031149bd76ebc2fea9cd1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 269415
+  packageName: CNC Mill Set
+  packageVersion: 1.0.1
+  assetPath: Assets/XRE Factory/Materials/Production Equipment/CNC Mill/CNC_Mill_Active_met.mat
+  uploadId: 738028

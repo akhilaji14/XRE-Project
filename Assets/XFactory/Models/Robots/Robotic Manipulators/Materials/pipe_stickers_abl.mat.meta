@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b2bcee99d2238940a7b24c2a4cf03cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Models/Robots/Robotic Manipulators/Materials/pipe_stickers_abl.mat
+  uploadId: 296766

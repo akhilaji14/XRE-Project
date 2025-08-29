@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69c82f1f83883dc47bab3f3db88c20eb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313023
+  packageName: CNC Lathe Set
+  packageVersion: 1.0.0
+  assetPath: Assets/CoolWorks_Studio/CNC_Lathe_Set/Materials/CNC_Lathe_Glass.mat
+  uploadId: 742012

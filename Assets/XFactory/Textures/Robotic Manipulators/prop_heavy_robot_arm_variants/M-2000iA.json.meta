@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea5fcf6ecb9d17243b5fb3a3709c5e16
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Textures/Robotic Manipulators/prop_heavy_robot_arm_variants/M-2000iA.json
+  uploadId: 296766

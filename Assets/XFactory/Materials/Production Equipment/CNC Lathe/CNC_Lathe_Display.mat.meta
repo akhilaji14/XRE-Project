@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2f5afea00859f6479e38c87df040073
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313023
+  packageName: CNC Lathe Set
+  packageVersion: 1.0.0
+  assetPath: Assets/CoolWorks_Studio/CNC_Lathe_Set/Materials/CNC_Lathe_Display.mat
+  uploadId: 742012

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a15a241c65f3434980f422339d1d873
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Models/Robots/Robotic Manipulators/Materials/Industrial_Robot_Arm.mat
+  uploadId: 296766

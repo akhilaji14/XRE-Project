@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c30ea76d04e7f9e48995967d1f94e9cd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Materials/Robotic Manipulators/sky.mat
+  uploadId: 296766

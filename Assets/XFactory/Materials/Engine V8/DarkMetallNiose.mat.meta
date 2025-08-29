@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd986ca4ad80c5846841c852e5f1d10a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228442
+  packageName: Engine V8 (Motor) Animated
+  packageVersion: 1.0
+  assetPath: Assets/EngineV8/Materials/DarkMetallNiose.mat
+  uploadId: 516758

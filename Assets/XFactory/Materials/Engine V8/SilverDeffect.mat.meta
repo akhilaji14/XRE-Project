@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2562cc09aec2184439358706d19e4339
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228442
+  packageName: Engine V8 (Motor) Animated
+  packageVersion: 1.0
+  assetPath: Assets/EngineV8/Materials/SilverDeffect.mat
+  uploadId: 516758

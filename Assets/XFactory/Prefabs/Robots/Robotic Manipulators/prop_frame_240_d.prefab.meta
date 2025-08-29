@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b6f19fd98e6fe046afa377ef217fa14
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Prefabs/Robots/Robotic Manipulators/prop_frame_240_d.prefab
+  uploadId: 296766

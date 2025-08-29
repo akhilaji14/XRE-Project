@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e408aa22d13dd34983ac4cfb234d9ac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313023
+  packageName: CNC Lathe Set
+  packageVersion: 1.0.0
+  assetPath: Assets/CoolWorks_Studio/CNC_Lathe_Set/Materials/CNC_Lathe_Inactive_met.mat
+  uploadId: 742012

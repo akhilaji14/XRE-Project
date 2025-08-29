@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29703e1bbd499834cb22ea10a8eebec5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Materials/Robotic Manipulators/prop_pallet_metal_a.mat
+  uploadId: 296766

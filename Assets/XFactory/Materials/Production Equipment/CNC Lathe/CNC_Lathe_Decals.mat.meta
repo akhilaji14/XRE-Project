@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5305973a49444d541a615a454cdf31bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313023
+  packageName: CNC Lathe Set
+  packageVersion: 1.0.0
+  assetPath: Assets/CoolWorks_Studio/CNC_Lathe_Set/Materials/CNC_Lathe_Decals.mat
+  uploadId: 742012

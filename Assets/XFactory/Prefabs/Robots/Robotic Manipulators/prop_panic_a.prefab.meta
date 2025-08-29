@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c560e479e9b0b064bb2af8d831f8de40
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Prefabs/Robots/Robotic Manipulators/prop_panic_a.prefab
+  uploadId: 296766

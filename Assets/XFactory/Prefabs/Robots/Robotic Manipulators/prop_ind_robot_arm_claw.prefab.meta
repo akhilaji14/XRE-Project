@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 95598bc81d6bb1045a16bfc363515200
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Prefabs/Robots/Robotic Manipulators/prop_ind_robot_arm_claw.prefab
+  uploadId: 296766

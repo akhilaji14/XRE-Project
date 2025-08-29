@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac3fc830d22a6c64c8a13730fc82b3fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313023
+  packageName: CNC Lathe Set
+  packageVersion: 1.0.0
+  assetPath: Assets/CoolWorks_Studio/CNC_Lathe_Set/Prefabs/CNC_Lathe_Inactive_spec.prefab
+  uploadId: 742012

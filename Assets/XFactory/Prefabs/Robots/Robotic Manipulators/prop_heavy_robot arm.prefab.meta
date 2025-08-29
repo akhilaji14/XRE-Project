@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1a2a62cf239b104494ee58ab1b06d3b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Prefabs/Robots/Robotic Manipulators/prop_heavy_robot
+    arm.prefab
+  uploadId: 296766

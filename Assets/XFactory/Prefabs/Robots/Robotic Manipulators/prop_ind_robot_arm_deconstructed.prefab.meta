@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81b4c5cc0d430664da0680b9e13ae1af
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Prefabs/Robots/Robotic Manipulators/prop_ind_robot_arm_deconstructed.prefab
+  uploadId: 296766

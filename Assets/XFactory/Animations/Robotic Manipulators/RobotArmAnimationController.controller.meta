@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd440baabf56ac04786a639ba3d17dfd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Animations/Robotic Manipulators/RobotArmAnimationController.controller
+  uploadId: 296766

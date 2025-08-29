@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fada06d87d6fd654697967bcf1f2f5f9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Materials/Robotic Manipulators/prop_heavy_robot_arm_varians/prop_heavy_robot_arm_01_blue.mat
+  uploadId: 296766

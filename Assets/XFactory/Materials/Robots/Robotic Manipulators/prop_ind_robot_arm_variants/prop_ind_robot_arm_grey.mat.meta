@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8522e31f926c3a748b5dd9b114912ef8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Materials/Robotic Manipulators/prop_ind_robot_arm_variants/prop_ind_robot_arm_grey.mat
+  uploadId: 296766

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f313a2880d2a78344a62abb94c13f88c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74760
+  packageName: 3D Printer
+  packageVersion: 2.0
+  assetPath: Assets/XRE Factory/Materials/3D Printer/MakerBotGlassShader.mat
+  uploadId: 693020

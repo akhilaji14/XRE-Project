@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 20e257fa8d6961d4484cf5703d4f963f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 269415
+  packageName: CNC Mill Set
+  packageVersion: 1.0.1
+  assetPath: Assets/XRE Factory/Prefabs/Production Equipment/CNC Mill/CNC_Mill_Set_Inactive_met.prefab
+  uploadId: 738028

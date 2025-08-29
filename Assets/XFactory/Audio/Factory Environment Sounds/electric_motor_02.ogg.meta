@@ -1,0 +1,57 @@
+fileFormatVersion: 2
+guid: 378284bad7d6f44488821029dadb10d0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107737
+  packageName: Sounds of the factory environment
+  packageVersion: 1.0
+  assetPath: Assets/Sounds of the factory environment/Sounds/electric_motor_02.ogg
+  uploadId: 220437
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 8
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides:
+    Android:
+      serializedVersion: 2
+      loadType: 1
+      sampleRateSetting: 2
+      sampleRateOverride: 22050
+      compressionFormat: 1
+      quality: 1
+      conversionMode: 0
+      preloadAudioData: 0
+    Standalone:
+      serializedVersion: 2
+      loadType: 1
+      sampleRateSetting: 2
+      sampleRateOverride: 22050
+      compressionFormat: 1
+      quality: 1
+      conversionMode: 0
+      preloadAudioData: 0
+    iPhone:
+      serializedVersion: 2
+      loadType: 1
+      sampleRateSetting: 2
+      sampleRateOverride: 22050
+      compressionFormat: 1
+      quality: 1
+      conversionMode: 0
+      preloadAudioData: 0
+  forceToMono: 1
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

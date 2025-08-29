@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a35d23894bc6f2949a4be2941fbace36
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140368
+  packageName: Industrial Robotic Manipulators Bundle
+  packageVersion: 1.0
+  assetPath: Assets/XRE Factory/Models/Robots/Robotic Manipulators/Materials/kuka_BaseColor.mat
+  uploadId: 296766

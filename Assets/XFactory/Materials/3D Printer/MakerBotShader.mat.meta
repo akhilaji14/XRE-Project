@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f81b86ab7279ab34b88be359ec1f1089
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74760
+  packageName: 3D Printer
+  packageVersion: 2.0
+  assetPath: Assets/XRE Factory/Materials/3D Printer/MakerBotShader.mat
+  uploadId: 693020

@@ -1,0 +1,48 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Mm]emoryCaptures/
+[Bb]urstDebugInformation-*/
+
+# Unity cache & meta
+*.pidb
+*.booproj
+*.svd
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.vs/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Crash Reports
+sysinfo.txt
+
+# Ignore generated audit/profiler data
+*.projectauditor
+*.data
+*.xml
+
+# BFG cleanup reports
+.bfg-report/
+
+# LFS-tracked assets (already handled by LFS rules)
+*.psd
+*.png
+*.jpg
+*.fbx
+*.wav
+*.mp4
+*.unitypackage

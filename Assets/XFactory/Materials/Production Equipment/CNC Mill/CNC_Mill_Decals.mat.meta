@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0924e01feac59447bdee6400b1e5e4e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 269415
+  packageName: CNC Mill Set
+  packageVersion: 1.0.1
+  assetPath: Assets/XRE Factory/Materials/Production Equipment/CNC Mill/CNC_Mill_Decals.mat
+  uploadId: 738028

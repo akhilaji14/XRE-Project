@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a95e342aec7ac6b4b814428a75a7807a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313023
+  packageName: CNC Lathe Set
+  packageVersion: 1.0.0
+  assetPath: Assets/CoolWorks_Studio/CNC_Lathe_Set/Animations/CNC_Lathe_Closed.anim
+  uploadId: 742012

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 14f7f956fa5d25d4580fce154b4c0747
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228442
+  packageName: Engine V8 (Motor) Animated
+  packageVersion: 1.0
+  assetPath: Assets/EngineV8/Animation controller/EngineAnim_V8.controller
+  uploadId: 516758

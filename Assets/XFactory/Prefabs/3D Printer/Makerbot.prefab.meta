@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3f2fa3dcb8e18d44288b0223d82b4718
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74760
+  packageName: 3D Printer
+  packageVersion: 2.0
+  assetPath: Assets/XRE Factory/Prefabs/3D Printer/Makerbot.prefab
+  uploadId: 693020
